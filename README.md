@@ -1,6 +1,6 @@
 <div align="center">
 
-![LigandAI-Design](assets/banner.svg)
+![LigandAI-Design](assets/banner.png)
 
 # LigandAI-Design
 
