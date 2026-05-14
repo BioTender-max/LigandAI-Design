@@ -1,6 +1,6 @@
 <div align="center">
 
-![LigandAI-Design](https://img.shields.io/badge/LigandAI-Design-4CAF50?style=for-the-badge&logo=molecule&logoColor=white)
+![LigandAI-Design](assets/banner.svg)
 
 # LigandAI-Design
 
