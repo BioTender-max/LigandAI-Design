@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://ligandai.com/favicon.ico" width="80" alt="LigandAI" />
+![LigandAI-Design](https://img.shields.io/badge/LigandAI-Design-4CAF50?style=for-the-badge&logo=molecule&logoColor=white)
 
 # LigandAI-Design
 
@@ -196,7 +196,5 @@ LigandAI-Design/
 <div align="center">
 
 Built with ❤️ for the protein design community · Powered by [LigandAI](https://ligandai.com)
-
-*Skills for [Biomni](https://phylo.bio) by Phylo*
 
 </div>
